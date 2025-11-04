@@ -1,4 +1,4 @@
-# SQL_Projects
+# SQL Projects
 
 ## Global Layoffs Data Exploratory in SQL 🚫
 
