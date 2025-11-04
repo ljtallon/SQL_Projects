@@ -22,43 +22,63 @@ This SQL script automated backup creation, data quality checks, column reduction
 
 ### Top 10 Energy Consuming Countries in 2022
 
+
 ![Top 10 Energy Consuming Countries in 2022](images/Screenshot%202025-11-04%20105848.png)
+
 
 ### Top 10 Energy Consumption per Capita in 2022
 
+
 ![Top 10 Energy Consumption per Capita in 2022](images/Screenshot%202025-11-04%20105919.png)
+
 
 ### Total Energy Consumption by Year
 
+
 ![Total Energy Consumption by Year](images/Screenshot%202025-11-04%20105944.png)
+
 
 ### Country GDP by Average Primary Consumption
 
+
 ![Country GDP by Average Primary Consumption](images/Screenshot%202025-11-04%20110048.png)
+
 
 ### Average Country Population vs. Energy Consumption
 
+
 ![Average Country Population vs. Energy Consumption](images/Screenshot%202025-11-04%20110115.png)
+
 
 ### Top 10 Countries With Highest Energy Growth
 
+
 ![Top 10 Countries With Highest Energy Growth](images/Screenshot%202025-11-04%20110143.png)
+
 
 ### Top 10 Countries With Lowest Carbon Emissions in 2022
 
+
 ![Top 10 Countries With Lowest Carbon Emissions in 2022](images/Screenshot%202025-11-04%20110219.png)
+
 
 ### Total Global Energy Consumption by Year
 
+
 ![Total Global Energy Consumption by Year](images/Screenshot%202025-11-04%20110248.png)
+
 
 ### Energy Source Comparison
 
+
 ![Energy Source Comparison](images/Screenshot%202025-11-04%20110331.png)
+
 
 ### Final Data Cleaning Preparation
 
+
 ![Final Data Cleaning Preparation](images/Screenshot%202025-11-04%20110447.png)
+
 
 ## Takeaways
 - Significant data redundancy and incomplete attributes were optimized, reducing column count from 129 to 104.
@@ -101,13 +121,18 @@ This analysis covered duplicate removal, data standardization, NULL value handli
 
 ![CTE Showing Duplicates](images/Screenshot%202025-11-04%20103050.png)
 
+
 ### Trimmed Company Names
+
 
 ![Trimmed Company Names](images/Screenshot%202025-11-04%20103213.png)
 
+
 ### Date Formatting Normalization
 
+
 ![Date Formatting Normalization](images/Screenshot%202025-11-04%20103359.png)
+
 
 ## Takeaways
 - Strengthened understanding of data quality assurance.
@@ -145,23 +170,33 @@ The analysis was performed on a cleaned staging dataset (layoffs_staging2) and e
 
 ### Top Companies by Layoffs
 
+
 ![Top Companies by Layoffs](images/Screenshot%202025-11-04%20093104.png)
+
 
 ### Top Industry by Layoffs
 
+
 ![Top Industries by Layoffs](images/Screenshot%202025-11-04%20093120.png)
+
 
 ### Layoffs by Country
 
+
 ![Layoffs by Country](images/Screenshot%202025-11-04%20093130.png)
+
 
 ### Total and Rolling Layoff Trends by Month
 
+
 ![Layoff Trends by Month](images/Screenshot%202025-11-04%20093152.png)
+
 
 ### Top Companies by Layoffs Over Time
 
+
 ![Rolling Total of Layoffs Over Time](images/Screenshot%202025-11-04%20093210.png)
+
 
 ## Takeaways
 - Significant layoff surges aligned with global economic downturns and funding contractions.
