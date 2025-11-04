@@ -1,6 +1,6 @@
 # SQL_Projects
 
-+ ## Global Layoffs Data Exploratory in SQL ⏳
+<code style="color : aqua"> ## Global Layoffs Data Exploratory in SQL</code>
 
 This project showcased an end-to-end SQL Exploratory Data Analysis (EDA) on global tech industry layoffs, designed to uncover insights about workforce reductions across companies, industries, and countries.
 
