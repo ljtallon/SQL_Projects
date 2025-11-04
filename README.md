@@ -18,19 +18,14 @@ The analysis was performed on a cleaned staging dataset (layoffs_staging2) and e
 
 ## Visuals  
 ![Layoff Trends by Month](images/Screenshot%202025-11-04%20093104.png)
-*Monthly Layoff Totals Across the Dataset*
 
 ![Top Companies by Layoffs](images/Screenshot%202025-11-04%20093120.png)
-*Top Companies Ranked by Workforce Reductions*
 
 ![Layoffs by Industry](images/Screenshot%202025-11-04%20093130.png)
-*Industry Comparison Highlighting Tech Sector Impact*
 
 ![Layoffs by Country](images/Screenshot%202025-11-04%20093152.png)
-*Geographic Distribution of Layoffs*
 
 ![Rolling Total of Layoffs Over Time](images/Screenshot%202025-11-04%20093210.png)
-*Cumulative Layoff Progression and Recovery Trends*
 
 ## Takeaways
 - Significant layoff surges aligned with global economic downturns and funding contractions.
