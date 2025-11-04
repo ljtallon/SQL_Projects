@@ -1,5 +1,6 @@
 # SQL Projects
 
+
 # World Layoffs Data Cleaning in SQL 🌎
 
 This project demonstrated an end-to-end SQL data cleaning process on a global layoffs dataset, with a focus on ensuring data accuracy, consistency, and readiness for analysis.
@@ -44,7 +45,9 @@ This analysis covered duplicate removal, data standardization, NULL value handli
 - Automate the cleaning pipeline using stored procedures or ETL workflows.
 
 
+
 ---
+
 
 
 # World Layoffs Data Exploratory in SQL 🚫
