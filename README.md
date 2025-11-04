@@ -1,5 +1,80 @@
 # SQL Projects
 
+# World Energy Consumption ☀️
+
+This project involved advanced SQL data engineering and analytical skills through a complete workflow for cleaning, transforming, and analyzing a global energy consumption dataset.
+
+## Project Overview
+
+This SQL script automated backup creation, data quality checks, column reduction, and EDA to uncover global trends in energy usage, fossil fuel reliance, and renewable adoption across countries.
+- **Tools:** Microsoft's SQL Server Management Studio (SSMS) 
+- **Techniques:** Data Backup and validation, NULL value handling, deduplication, aggregation and aomparative Analysis (GDP, Population, Energy), year-over-year trend analysis, ranking
+- **My Role:** Designed SQL workflow to prepare raw energy consumption data for business intelligence by performing data cleaning, schema management, and analysis logic.
+
+## Key Contributions
+- Ensured data preservation with a full backup table for version control and rollback capability.
+- Identified columns with 80–90% null values and safely dropped non-informative attributes to optimize query performance.
+- Used pattern matching to eliminate aggregated and regional data (ie. "OECD", "Africa", "Other income") for cleaner country-level analysis.
+- Performed EDA: Ranked top 10 energy-consuming countries globally, compared GDP and population against average energy use, analyzed fossil fuel vs. renewable energy trends over time, highlighted top countries with the fastest energy growth and lowest carbon share.
+- Verified schema consistency, null distribution, and proper data types.
+
+## Visuals
+
+### Top 10 Energy Consuming Countries in 2022
+
+![Top 10 Energy Consuming Countries in 2022](images/Screenshot%202025-11-04%20105848.png)
+
+### Top 10 Energy Consumption per Capita in 2022
+
+![Top 10 Energy Consumption per Capita in 2022](images/Screenshot%202025-11-04%20105919.png)
+
+### Total Energy Consumption by Year
+
+![Total Energy Consumption by Year](images/Screenshot%202025-11-04%20105944.png)
+
+### Country GDP by Average Primary Consumption
+
+![Country GDP by Average Primary Consumption](images/Screenshot%202025-11-04%20110048.png)
+
+### Average Country Population vs. Energy Consumption
+
+![Average Country Population vs. Energy Consumption](images/Screenshot%202025-11-04%20110115.png)
+
+### Top 10 Countries With Highest Energy Growth
+
+![Top 10 Countries With Highest Energy Growth](images/Screenshot%202025-11-04%20110143.png)
+
+### Top 10 Countries With Lowest Carbon Emissions in 2022
+
+![Top 10 Countries With Lowest Carbon Emissions in 2022](images/Screenshot%202025-11-04%20110219.png)
+
+### Total Global Energy Consumption by Year
+
+![Total Global Energy Consumption by Year](images/Screenshot%202025-11-04%20110248.png)
+
+### Energy Source Comparison
+
+![Energy Source Comparison](images/Screenshot%202025-11-04%20110331.png)
+
+### Final Data Cleaning Preparation
+
+![Final Data Cleaning Preparation](images/Screenshot%202025-11-04%20110447.png)
+
+## Takeaways
+- Significant data redundancy and incomplete attributes were optimized, reducing column count from 129 to 104.
+- Demonstrated the impact of economic (GDP) and demographic (Population) factors on national energy consumption patterns.
+- Identified a clear upward trend in renewable energy adoption, contrasted by sustained reliance on fossil fuels in industrialized nations.
+
+## Next Steps
+- Build interactive dashboards to visualize country comparisons and long-term energy trends. (See Power BI Dashboard Project)
+- Implement stored procedures for routine data cleaning and ingestion.
+- Build a predictive model to forecast future global energy demands and renewable adoption rates.
+
+
+
+---
+
+
 
 # World Layoffs Data Cleaning in SQL 🌎
 
