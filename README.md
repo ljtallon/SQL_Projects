@@ -17,14 +17,20 @@ The analysis was performed on a cleaned staging dataset (layoffs_staging2) and e
 - Aggregated layoffs by industry, stage, and country to identify sectors most impacted.
 
 ## Visuals  
-![Layoff Trends by Month](images/Screenshot%202025-11-04%20093104.png)
 
-![Top Companies by Layoffs](images/Screenshot%202025-11-04%20093120.png)
+Top Companies by Layoffs
+![Top Companies by Layoffs](images/Screenshot%202025-11-04%20093104.png)
 
-![Layoffs by Industry](images/Screenshot%202025-11-04%20093130.png)
+Top Industry by Layoffs
+![Top Industries by Layoffs](images/Screenshot%202025-11-04%20093120.png)
 
-![Layoffs by Country](images/Screenshot%202025-11-04%20093152.png)
+Layoffs by Country
+![Layoffs by Country](images/Screenshot%202025-11-04%20093130.png)
 
+Total and Rolling Layoff Trends by Month
+![Layoff Trends by Month](images/Screenshot%202025-11-04%20093152.png)
+
+Top Companies by Layoffs Over Time
 ![Rolling Total of Layoffs Over Time](images/Screenshot%202025-11-04%20093210.png)
 
 ## Takeaways
