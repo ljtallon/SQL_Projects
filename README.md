@@ -1,5 +1,121 @@
 # SQL Projects
 
+# Healthcare Patient Insurance & Revenue Analysis 🏥
+
+## Project Overview
+This project leverages MySQL data engineering and analytics to analyze patient insurance distribution, trends over time, and Revenue Per Treatment (RPT) in healthcare facilities.
+- **Tools**: MySQL, CSV data ingestion
+- **Techniques**: Aggregation, trend analysis, comparative analysis (insurance types, revenue drivers)
+- **My Role**: Designed and executed a complete SQL workflow to transform patient and facility data into structured insights for healthcare analytics.
+
+
+## Key Contributions
+- Used LOAD DATA INFILE to efficiently import large CSV datasets into MySQL.
+- Ensured data integrity by enforcing relationships between tables (e.g., FACILITY_NO as a foreign key).
+- Tracked privately insured patient trends over time.
+- Identified division-wise concentration of insurance types.
+- Computed average REVENUE / TREATMENTS for each census month.
+- Analyzed RPT fluctuations by insurance type and modality.
+- Compared RPT trends across divisions, insurance types, and modalities.
+
+## Visuals
+
+### Creating and Loading Patient and Facility Tables
+
+
+![Patient and Facility Data Tables]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 114647.png")
+
+
+### Percentage of Patients by Insurance
+
+
+![Percentage of Patients by Insurance Type]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 114821.png")
+
+
+![Percentage of Patients by Insurance Type Results]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 122245.png")
+
+
+### Percentage of Patients by Current Insurance Status
+
+
+![Percentage of Patients by Current Insurance Type]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 115050.png")
+
+
+![Percentage of Patients by Current Insurance Type Results]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 122158.png")
+
+
+### Privately Insured Population Trend Over Time
+
+
+![Privately Insured Population Trend Over Time]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 115437.png")
+
+
+![Privately Insured Population Trend Over Time Results]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 122105.png")
+
+
+### Insurance Population Trend Over Time
+
+
+![Insurance Population Trend Over Time]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 115618.png")
+
+
+![Insurance Population Trend Over Time Results]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 122004.png")
+
+
+### Privately Insured Patients by Division
+
+
+![Privately Insured Patients by Division]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 115853.png")
+
+
+![Privately Insured Patients by Division Results]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 121858.png")
+
+
+### Insurance Patients by Division
+
+
+![Insurance Patients by Division]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 120025.png")
+
+
+![Insurance Patients by Division Results]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 121805.png")
+
+
+### Revenue Per Treatment (RPT) Trend Over Time
+
+
+![Revenue Per Treatment (RPT) Trend Over Time]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 120136.png")
+
+
+![Revenue Per Treatment (RPT) Trend Over Time Results]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 121649.png")
+
+
+### RPT Driver
+
+
+![RPT Driver]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 120621.png")
+
+
+![RPT Driver Results]("C:/Users/ljtal/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 121256.png")
+
+
+
+
+## Takeaways
+- Privately Insured patients are concentrated in Division 4, while Uninsured and Government-Insured patients are more prevalent in Division 1.
+- RPT fluctuates monthly, with Privately Insured patients contributing the most to revenue.
+- Pulling the patient's most recent insurance status (via census month) more accurately prevents skewed results.
+
+## Next Steps
+- Share insights with healthcare administrators or data science teams for further validation.
+- Analyze RPT by patient demographics (e.g., age, treatment duration).
+- Perform hypothesis testing (e.g., t-tests) to confirm if RPT differences between insurance types are statistically significant.
+
+
+
+---
+
+
+
 # World Energy Consumption ☀️
 
 This project involved advanced SQL data engineering and analytical skills through a complete workflow for cleaning, transforming, and analyzing a global energy consumption dataset.
