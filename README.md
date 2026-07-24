@@ -23,79 +23,79 @@ This project leverages MySQL data engineering and analytics to analyze patient i
 ### Creating and Loading Patient and Facility Tables
 
 
-![Patient and Facility Data Tables](images/Screenshot%2026-07-24%114647.png)
+![Patient and Facility Data Tables](images/Screenshot_2026-07-24_114647.png)
 
 
 ### Percentage of Patients by Insurance
 
 
-![Percentage of Patients by Insurance Type](images/Screenshot%2026-07-24%114821.png)
+![Percentage of Patients by Insurance Type](images/Screenshot_2026-07-24_114821.png)
 
 
-![Percentage of Patients by Insurance Type Results](images/Screenshot%2026-07-24%122245%(1).png)
+![Percentage of Patients by Insurance Type Results](images/Screenshot_2026-07-24_122245.png)
 
 
 ### Percentage of Patients by Current Insurance Status
 
 
-![Percentage of Patients by Current Insurance Type](images/Screenshot%2026-07-24%115050.png)
+![Percentage of Patients by Current Insurance Type](images/Screenshot_2026-07-24_115050.png)
 
 
-![Percentage of Patients by Current Insurance Type Results](images/Screenshot%2026-07-24%122158.png)
+![Percentage of Patients by Current Insurance Type Results](images/Screenshot_2026-07-24_122158.png)
 
 
 ### Privately Insured Population Trend Over Time
 
 
-![Privately Insured Population Trend Over Time](images/Screenshot%2026-07-24%115437.png)
+![Privately Insured Population Trend Over Time](images/Screenshot_2026-07-24_115437.png)
 
 
-![Privately Insured Population Trend Over Time Results](images/Screenshot%2026-07-24%122105.png)
+![Privately Insured Population Trend Over Time Results](images/Screenshot_2026-07-24_122105.png)
 
 
 ### Insurance Population Trend Over Time
 
 
-![Insurance Population Trend Over Time](images/Screenshot%2026-07-24%115618.png)
+![Insurance Population Trend Over Time](images/Screenshot_2026-07-24_115618.png)
 
 
-![Insurance Population Trend Over Time Results](images/Screenshot%2026-07-24%122004.png)
+![Insurance Population Trend Over Time Results](images/Screenshot_2026-07-24_122004.png)
 
 
 ### Privately Insured Patients by Division
 
 
-![Privately Insured Patients by Division](images/Screenshot%2026-07-24%115853.png)
+![Privately Insured Patients by Division](images/Screenshot_2026-07-24_115853.png)
 
 
-![Privately Insured Patients by Division Results](images/Screenshot%2026-07-24%121858.png)
+![Privately Insured Patients by Division Results](images/Screenshot_2026-07-24_121858.png)
 
 
 ### Insurance Patients by Division
 
 
-![Insurance Patients by Division](images/Screenshot%2026-07-24%120025.png)
+![Insurance Patients by Division](images/Screenshot_2026-07-24_120025.png)
 
 
-![Insurance Patients by Division Results](images/Screenshot%2026-07-24%121805.png)
+![Insurance Patients by Division Results](images/Screenshot_2026-07-24_121805.png)
 
 
 ### Revenue Per Treatment (RPT) Trend Over Time
 
 
-![Revenue Per Treatment (RPT) Trend Over Time](images/Screenshot%2026-07-24%120136.png)
+![Revenue Per Treatment (RPT) Trend Over Time](images/Screenshot_2026-07-24_120136.png)
 
 
-![Revenue Per Treatment (RPT) Trend Over Time Results](images/Screenshot%2026-07-24%121649.png)
+![Revenue Per Treatment (RPT) Trend Over Time Results](images/Screenshot_2026-07-24_121649.png)
 
 
 ### RPT Driver
 
 
-![RPT Driver](images/Screenshot%2026-07-24%120621.png)
+![RPT Driver](images/Screenshot_2026-07-24_120621.png)
 
 
-![RPT Driver Results](images/Screenshot%2026-07-24%121256.png)
+![RPT Driver Results](images/Screenshot_2026-07-24_121256.png)
 
 
 
